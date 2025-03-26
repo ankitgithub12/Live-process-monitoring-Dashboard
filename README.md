@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a0744b3b-9925-49a2-82aa-bf4300665264)# Live-process-monitoring-Dashboard
+# Live-process-monitoring-Dashboard
 A Live Process Monitoring Dashboard is a graphical tool that provides real-time insights into system processes, CPU usage, memory consumption, and other system performance metrics. It enables users to monitor and manage running processes efficiently, helping in system diagnostics and performance optimization.
 **1. Project Overview**
 
