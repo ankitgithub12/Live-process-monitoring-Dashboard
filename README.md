@@ -105,3 +105,15 @@ Postman for API testing.
 
 Docker for deployment.
 
+
+7. Conclusion and Future Scope
+Conclusion:
+The Live Process Monitoring Dashboard successfully enables real-time system monitoring through an intuitive interface, efficient data visualization, and an alert system for anomalies.
+Future Scope:
+•	AI-based Predictive Analysis: Detect potential failures before they occur.
+•	Integration with IoT Devices: Expand monitoring of industrial applications.
+•	Machine Learning Anomaly Detection: Automatically identify irregular system behavior.
+•	Mobile App Version: For monitoring on-the-go.
+•	Cloud-Based Monitoring: Support integration with AWS CloudWatch, Azure Monitor, etc.
+
+
